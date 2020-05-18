@@ -1,4 +1,3 @@
-setwd("/Users/jo/Downloads/")
 rm(list=ls())
 cat("\014")
 graphics.off()
